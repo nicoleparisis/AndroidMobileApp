@@ -1,6 +1,6 @@
 # AndroidMobileApp
 
-Finacial Mobile App written in Java 
+Financial Mobile App written in Java 
 
 Software needed to run app 
 
