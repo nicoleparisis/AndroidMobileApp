@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "117276877745",
+    "project_id": "firebase-futureself"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117276877745:android:0a3acac84693e58a",
+        "android_client_info": {
+          "package_name": "edu.usf.nmtierneymail.futureself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117276877745-hdldpl1sa63h1inqq9csqqh49ucc9esc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.usf.nmtierneymail.futureself",
+            "certificate_hash": "3321465af6cb1b61413d37568970d0559fd52ab0"
+          }
+        },
+        {
+          "client_id": "117276877745-9lbb06llujdn9fccet4vc8lrspkdc27j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnM8SUBMHC6xWJvvqXkZS84FdYeX-jBFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

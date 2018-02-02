@@ -1,0 +1,50 @@
+
+<!-- fragment_screen_slide_page.xml -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="center"
+            android:text="Swipe To Navigate" />
+
+        <TextView style="?android:textAppearanceMedium"
+            android:id="@+id/slideText"
+            android:padding="16dp"
+            android:lineSpacingMultiplier="1.2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SUPER DUPER STRING" />
+
+        <EditText style="?android:textAppearanceMedium"
+            android:id="@+id/editText3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Answer" />
+
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="157dp"
+            android:layout_height="wrap_content"
+            android:text="Exit Wizard" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="263dp"
+            android:layout_height="30dp" />
+    </LinearLayout>
+</ScrollView>
