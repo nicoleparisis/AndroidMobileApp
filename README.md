@@ -10,4 +10,4 @@ Software needed to run app
 
 Implements
 
--fragments -drop down -icon navigation -swipe navigation -REST API
+-fragments -drop down -icon navigation -swipe navigation -REST API -log in -SQLite database
